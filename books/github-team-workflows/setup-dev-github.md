@@ -4,7 +4,7 @@ title: "GitHub のユーザー設定を行う"
 
 ## 事前準備
 
-[SSH キーを準備する](./setup-dev-ssh%252Emd)
+[SSH キーを準備する](./setup-dev-ssh)
 
 ## 作業手順
 

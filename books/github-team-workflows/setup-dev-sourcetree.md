@@ -4,7 +4,7 @@ title: "SourceTree をインストールする"
 
 ## 事前確認
 
-[SSH キーを準備する](./setup-dev-ssh%252Emd)
+[SSH キーを準備する](./setup-dev-ssh)
 
 ## 作業手順
 
