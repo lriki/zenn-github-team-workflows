@@ -28,6 +28,7 @@ chapters:
   - developer-cleanup
   - developer-get-latest
   - developer-fix-conflict
+  - developer-fix-conflict-web
   - reviewer-0-index
   - reviewer-review
   - reviewer-check-fix
