@@ -1,0 +1,28 @@
+title: "(⚠️執筆中) GitHubでチーム開発を始めよう"
+summary: "test"
+topics: []
+published: false
+price: 0
+chapters:
+  - summary
+  - setup-dev-0-index
+  - setup-dev-git
+  - setup-dev-ssh
+  - setup-dev-github
+  - setup-dev-sourcetree
+  - developer-0-index
+  - developer-clone-repository
+  - developer-clean-workspace
+  - developer-create-develop-branch
+  - developer-upload-changes
+  - developer-submit-review
+  - developer-fix-review-feedback
+  - developer-cleanup
+  - developer-get-latest
+  - developer-fix-conflict
+  - reviewer-0-index
+  - reviewer-review
+  - reviewer-check-fix
+  - reviewer-marge-changes
+
+
