@@ -11,9 +11,8 @@ summary: |-
 
   内容は随時更新していきます。
 
-summary: ""
 topics: ["git", "github"]
-published: false
+published: true
 price: 0
 chapters:
   - summary
